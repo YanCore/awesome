@@ -51,6 +51,7 @@
 
 ## HTML 
 
+- [YanCore/zhihu-hot-hub](https://github.com/YanCore/zhihu-hot-hub) - 记录知乎热搜、热门话题、热门视频，每小时更新，按天归档。
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [JoeCao/JoeCao.github.io](https://github.com/JoeCao/JoeCao.github.io) - 
 - [phodal/toolbox](https://github.com/phodal/toolbox) - Phodal's Toolbox
@@ -59,6 +60,7 @@
 
 ## Java 
 
+- [CheckChe0803/flink-recommandSystem-demo](https://github.com/CheckChe0803/flink-recommandSystem-demo) - :helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。
 - [GceCold/VexMusic](https://github.com/GceCold/VexMusic) - 服务器点歌插件
 - [Kuangcp/Note](https://github.com/Kuangcp/Note) - :memo: Simplified and open note repo
 - [abel533/Mapper](https://github.com/abel533/Mapper) - Mybatis Common Mapper - Easy to use
@@ -128,6 +130,7 @@
 
 ## Others 
 
+- [YanCore/HowToCook](https://github.com/YanCore/HowToCook) - 程序员在家做饭方法指南。
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 - [jtyoui/Jtyoui](https://github.com/jtyoui/Jtyoui) - 搜狗词库下载、新词发现算法、常见的工具类、百度应用、翻译、天气预报、汉语纠错、字符串文本数据提取时间解析、百度文库下载、实体抽取等等
@@ -165,6 +168,10 @@
 
 ## Python 
 
+- [YanCore/douyin-hot-hub](https://github.com/YanCore/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
+- [YanCore/github-hot-hub](https://github.com/YanCore/github-hot-hub) - 记录GitHub热门仓库，每小时更新，按天归档。
+- [Gaoyongxian666/CountBoard](https://github.com/Gaoyongxian666/CountBoard) - CountBoard 是一个基于Tkinter简单的,开源的桌面日程倒计时应用。
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
