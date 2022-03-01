@@ -168,6 +168,7 @@
 
 ## Python 
 
+- [itaa/soja-box](https://github.com/itaa/soja-box) - A little useful toolbox for python.
 - [YanCore/douyin-hot-hub](https://github.com/YanCore/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
 - [YanCore/github-hot-hub](https://github.com/YanCore/github-hot-hub) - 记录GitHub热门仓库，每小时更新，按天归档。
 - [Gaoyongxian666/CountBoard](https://github.com/Gaoyongxian666/CountBoard) - CountBoard 是一个基于Tkinter简单的,开源的桌面日程倒计时应用。
