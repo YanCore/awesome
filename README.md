@@ -73,6 +73,7 @@
 
 ## JavaScript 
 
+- [nareix/majia](https://github.com/nareix/majia) - 快速切换同一网站的多个已登录账号的 Chrome 插件
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [botuniverse/onebot](https://github.com/botuniverse/onebot) - OneBot 标准：一个聊天机器人应用接口标准
@@ -310,6 +311,7 @@
 
 ## TypeScript 
 
+- [huangwc94/scraping-helper-chrome-extension](https://github.com/huangwc94/scraping-helper-chrome-extension) - Scraping Helper will help you to find out the best html/css selector for certain elements
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
