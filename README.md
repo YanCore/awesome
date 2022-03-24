@@ -135,7 +135,7 @@
 - [YanCore/HowToCook](https://github.com/YanCore/HowToCook) - 程序员在家做饭方法指南。
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
-- [jtyoui/Jtyoui](https://github.com/jtyoui/Jtyoui) - 搜狗词库下载、新词发现算法、常见的工具类、百度应用、翻译、天气预报、汉语纠错、字符串文本数据提取时间解析、百度文库下载、实体抽取等等
+- [jtyoui/PyUnit](https://github.com/jtyoui/PyUnit) - 搜狗词库下载、新词发现算法、常见的工具类、百度应用、翻译、天气预报、汉语纠错、字符串文本数据提取时间解析、百度文库下载、实体抽取等等
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
@@ -190,7 +190,7 @@
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
-- [flaggo/pydu](https://github.com/flaggo/pydu) - Useful data structures and utils for Python
+- [flaggo/pydu](https://github.com/flaggo/pydu) - Useful data structures and utils for Python.
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [zdict/zdict](https://github.com/zdict/zdict) - The last online dictionary CLI framework you need.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
