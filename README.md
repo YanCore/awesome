@@ -51,7 +51,6 @@
 ## HTML 
 
 - [YanCore/zhihu-hot-hub](https://github.com/YanCore/zhihu-hot-hub) - 记录知乎热搜、热门话题、热门视频，每小时更新，按天归档。
-- [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [JoeCao/JoeCao.github.io](https://github.com/JoeCao/JoeCao.github.io) - 
@@ -248,6 +247,7 @@
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [hustcc/PyG2Plot](https://github.com/hustcc/PyG2Plot) - 🎨 Python3 binding for `@AntV/G2Plot` Plotting Library .
 - [AirtestProject/Poco](https://github.com/AirtestProject/Poco) - A cross-engine test automation framework based on UI inspection
+- [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock) - Pomodoro 番茄工作法 https://en.wikipedia.org/wiki/Pomodoro_Technique
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
