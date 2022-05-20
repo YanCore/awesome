@@ -98,7 +98,6 @@
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
 - [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - 基于 node.js + Mongodb 构建的后台系统
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [wikieswan/vipspa](https://github.com/wikieswan/vipspa) - A SPA Framework -- 为移动端开发提供纯前端的路由方案
 - [fongdaBoy/Vue2.0ComponentDemo](https://github.com/fongdaBoy/Vue2.0ComponentDemo) - 这个是vue2.0ui组件 和 功能组件案例 后期还会继续加上的一些组件的
 - [vuejs/vuex-router-sync](https://github.com/vuejs/vuex-router-sync) - Effortlessly keep vue-router and vuex store in sync.
@@ -322,6 +321,7 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [yiminghe/async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous
 - [tinymce/tinymce-vue](https://github.com/tinymce/tinymce-vue) - Official TinyMCE Vue component
+- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
 ## Vue 
 
