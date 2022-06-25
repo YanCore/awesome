@@ -77,7 +77,7 @@
 - [nareix/majia](https://github.com/nareix/majia) - 快速切换同一网站的多个已登录账号的 Chrome 插件
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
-- [botuniverse/onebot](https://github.com/botuniverse/onebot) - OneBot 标准：一个聊天机器人应用接口标准
+- [botuniverse/onebot](https://github.com/botuniverse/onebot) - OneBot：统一的聊天机器人应用接口标准
 - [imcuttle/request-song-robot](https://github.com/imcuttle/request-song-robot) - 点歌机器人！！！（来自网易云音乐）
 - [algolia/vue-instantsearch](https://github.com/algolia/vue-instantsearch) - 👀  Algolia components for building search UIs with Vue.js
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
