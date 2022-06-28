@@ -328,7 +328,6 @@
 - [bailichen/vue-weixin](https://github.com/bailichen/vue-weixin) - Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
 - [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-- [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [biaodigit/vue-news](https://github.com/biaodigit/vue-news) - Vue2.5知乎日报单页应用
 - [chrisvfritz/vue-2.0-simple-routing-example](https://github.com/chrisvfritz/vue-2.0-simple-routing-example) - A simple example of routing with Vue 2.0 without using vue-router.
 - [TOBEJIKE/JkMustard-Vue](https://github.com/TOBEJIKE/JkMustard-Vue) - SPA单页应用，前后端分离；移动设备兼容：使用flexible.js和rem处理兼容问题；路由懒加载：Vue Router 处理路由，结合 Vue 的 异步组件 和 Webpack 的 code splitting feature 实现路由懒加载；axios做ajax请求；使用了 Vuex 管理组件间的状态，实现非父子组件之间的通信；使用 Vue-draggable实现移动端拖拽排序；mint-U
