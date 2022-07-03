@@ -272,7 +272,6 @@
 - [scrapy/quotesbot](https://github.com/scrapy/quotesbot) - This is a sample Scrapy project for educational purposes
 - [scrapy/dirbot](https://github.com/scrapy/dirbot) - Scrapy project to scrape public web directories (educational) [DEPRECATED]
 - [gera2ld/qqlib](https://github.com/gera2ld/qqlib) - [DEPRECATED] QQ login library based on webqq
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 - [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
