@@ -96,7 +96,7 @@
 - [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
 - [umdjs/umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
-- [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - 基于 node.js + Mongodb 构建的后台系统
+- [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [wikieswan/vipspa](https://github.com/wikieswan/vipspa) - A SPA Framework -- 为移动端开发提供纯前端的路由方案
 - [fongdaBoy/Vue2.0ComponentDemo](https://github.com/fongdaBoy/Vue2.0ComponentDemo) - 这个是vue2.0ui组件 和 功能组件案例 后期还会继续加上的一些组件的
@@ -324,7 +324,7 @@
 ## Vue 
 
 - [bailichen/vue-weixin](https://github.com/bailichen/vue-weixin) - Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
-- [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+- [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [biaodigit/vue-news](https://github.com/biaodigit/vue-news) - Vue2.5知乎日报单页应用
 - [chrisvfritz/vue-2.0-simple-routing-example](https://github.com/chrisvfritz/vue-2.0-simple-routing-example) - A simple example of routing with Vue 2.0 without using vue-router.
