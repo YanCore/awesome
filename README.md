@@ -86,6 +86,7 @@
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [f/vue-wait](https://github.com/f/vue-wait) - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [webpack-contrib/postcss-loader](https://github.com/webpack-contrib/postcss-loader) - PostCSS loader for webpack
 - [webpack-contrib/sass-loader](https://github.com/webpack-contrib/sass-loader) - Compiles Sass to CSS
@@ -316,7 +317,6 @@
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表格解决方案
 - [le5le-com/topology](https://github.com/le5le-com/topology) - A diagram (topology, UML) framework uses canvas and typescript.  一个轻量（100k左右）、功能丰富的绘图工具（微服务架构图、拓扑图、流程图、类图等UML图、脑图，动画、视频支持）。 【在线使用】：
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [yiminghe/async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous
 - [tinymce/tinymce-vue](https://github.com/tinymce/tinymce-vue) - Official TinyMCE Vue component
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
