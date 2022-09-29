@@ -186,7 +186,6 @@
 - [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
-- [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [flaggo/pydu](https://github.com/flaggo/pydu) - Useful data structures and utils for Python.
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [zdict/zdict](https://github.com/zdict/zdict) - The last online dictionary CLI framework you need.
