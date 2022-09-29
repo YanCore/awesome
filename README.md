@@ -109,7 +109,7 @@
 - [bbxjs/bbx](https://github.com/bbxjs/bbx) - 𝕓𝕓𝕩 是一个极其简单高效的 React 状态管理方式
 - [recurrying/refast](https://github.com/recurrying/refast) - 5分钟就能学会的 React 组件状态管理工具。文档:
 - [Tencent/westore](https://github.com/Tencent/westore) - 更好的小程序项目架构
-- [medatc/vuet](https://github.com/medatc/vuet) - 允许你定义飙车过程的集中式状态管理模式
+- [lzxb/vuet](https://github.com/lzxb/vuet) - 允许你定义飙车过程的集中式状态管理模式
 - [ytppp/node-web-server](https://github.com/ytppp/node-web-server) - 初步实现静、动态路由解析，网页解析
 - [mttmcgrgr/url-fetcher](https://github.com/mttmcgrgr/url-fetcher) - (React.js, Node.js, Redis) Job queue with RESTful API that fetches html from a URL
 - [justok/SimpleApp](https://github.com/justok/SimpleApp) - SimpleApp是一款适用于单页应用的轻型框架。 致力于解决单页应用的前端路由，页面管理，页面切换等问题。目前依赖于zepto.js。
