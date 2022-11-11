@@ -180,7 +180,6 @@
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python
 - [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
-- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
 - [flaggo/pydu](https://github.com/flaggo/pydu) - Useful data structures and utils for Python.
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
