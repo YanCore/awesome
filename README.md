@@ -106,7 +106,7 @@
 - [SBDavid/wxappStore](https://github.com/SBDavid/wxappStore) - 微信小程序全局状态管理，并提供Vuex的开发体验
 - [bbxjs/bbx](https://github.com/bbxjs/bbx) - 𝕓𝕓𝕩 是一个极其简单高效的 React 状态管理方式
 - [recurrying/refast](https://github.com/recurrying/refast) - 5分钟就能学会的 React 组件状态管理工具。文档:
-- [Tencent/westore](https://github.com/Tencent/westore) - 更好的小程序项目架构
+- [Tencent/westore](https://github.com/Tencent/westore) - 小程序项目分层架构
 - [lzxb/vuet](https://github.com/lzxb/vuet) - 允许你定义飙车过程的集中式状态管理模式
 - [ytppp/node-web-server](https://github.com/ytppp/node-web-server) - 初步实现静、动态路由解析，网页解析
 - [mttmcgrgr/url-fetcher](https://github.com/mttmcgrgr/url-fetcher) - (React.js, Node.js, Redis) Job queue with RESTful API that fetches html from a URL
