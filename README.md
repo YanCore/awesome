@@ -78,7 +78,6 @@
 - [fex-team/kityminder-editor](https://github.com/fex-team/kityminder-editor) - Powerful Mindmap Editing Tool
 - [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
-- [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [webpack-contrib/postcss-loader](https://github.com/webpack-contrib/postcss-loader) - PostCSS loader for webpack
 - [webpack-contrib/sass-loader](https://github.com/webpack-contrib/sass-loader) - Compiles Sass to CSS
 - [xunleif2e/vue-context-menu](https://github.com/xunleif2e/vue-context-menu) - 🗃️ Vue 2.x 右键菜单组件，菜单内容可以随意自定义
@@ -138,7 +137,6 @@
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [taowen/modularization-examples](https://github.com/taowen/modularization-examples) - 代码防腐实用技术
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
-- [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
@@ -163,7 +161,6 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
 - [baidu/CUP](https://github.com/baidu/CUP) - CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
-- [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [will8211/unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running.
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
@@ -176,7 +173,6 @@
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
-- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [NtesEyes/pylane](https://github.com/NtesEyes/pylane) - An python vm injector with debug tools, based on gdb.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
@@ -194,7 +190,6 @@
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [anyant/rssant](https://github.com/anyant/rssant) - 蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯
@@ -210,7 +205,6 @@
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
@@ -228,14 +222,12 @@
 - [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount) - 学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案
 - [TurboWay/bigdata_analyse](https://github.com/TurboWay/bigdata_analyse) - 大数据分析项目
 - [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
-- [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [devourbots/word_cloud_bot](https://github.com/devourbots/word_cloud_bot) - 一个可以统计群组用户发言，并且能将聊天内容生成词云的机器人
 - [iswbm/pycharm-guide](https://github.com/iswbm/pycharm-guide) - PyCharm 中文指南：安装 | 破解 | 效率 | 技巧
 - [yhangf/PythonCrawler](https://github.com/yhangf/PythonCrawler) - :heartpulse:用python编写的爬虫项目集合
 - [tychxn/jd-assistant](https://github.com/tychxn/jd-assistant) - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [scrapy/dirbot](https://github.com/scrapy/dirbot) - Scrapy project to scrape public web directories (educational) [DEPRECATED]
 - [gera2ld/qqlib](https://github.com/gera2ld/qqlib) - [DEPRECATED] QQ login library based on webqq
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
@@ -264,7 +256,6 @@
 
 ## Shell 
 
-- [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [Vonng/adcode](https://github.com/Vonng/adcode) - 中国行政区划代码，包括五级行政区划详细代码，县级以上区划地理围栏。
