@@ -247,7 +247,7 @@
 
 ## Roff 
 
-- [shadowrocketHelp/help](https://github.com/shadowrocketHelp/help) - 【史上最详细的SS/SSR节点使用教程】
+- [shadowrocketHelp/help](https://github.com/shadowrocketHelp/help) - 【史上最详细的SS/SSR/v2ray/trojan节点使用教程】
 
 ## Scala 
 
