@@ -61,7 +61,7 @@
 ## Java 
 
 - [will-che/flink-recommandSystem-demo](https://github.com/will-che/flink-recommandSystem-demo) - :helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。
-- [parzulpan/reallive](https://github.com/parzulpan/reallive) - A cross-platform network media aggregation application
+- [parzulpan/livebox](https://github.com/parzulpan/livebox) - A cross-platform network media aggregation application.
 - [GceCold/VexMusic](https://github.com/GceCold/VexMusic) - 服务器点歌插件
 - [Kuangcp/Note](https://github.com/Kuangcp/Note) - :memo: Simplified and open note repo
 - [abel533/Mapper](https://github.com/abel533/Mapper) - Mybatis Common Mapper - Easy to use
