@@ -86,7 +86,7 @@
 - [Inndy/vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - A simple vue2 binding to clipboard.js
 - [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
 - [umdjs/umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.
-- [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
+- [cwage/fetch](https://github.com/cwage/fetch) - A window.fetch JavaScript polyfill.
 - [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [wikieswan/vipspa](https://github.com/wikieswan/vipspa) - A SPA Framework -- 为移动端开发提供纯前端的路由方案
