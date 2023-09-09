@@ -22,6 +22,7 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [reStructuredText](#restructuredtext)
 
 ## C 
 
@@ -230,7 +231,6 @@
 - [gera2ld/qqlib](https://github.com/gera2ld/qqlib) - [DEPRECATED] QQ login library based on webqq
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
-- [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [yfme01/Music-Live-on-Bilibili](https://github.com/yfme01/Music-Live-on-Bilibili) - 运行于服务器上的Bilibili直播点歌台
 - [openstack/openstack](https://github.com/openstack/openstack) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
@@ -279,6 +279,10 @@
 - [biaodigit/vue-news](https://github.com/biaodigit/vue-news) - Vue2.5知乎日报单页应用
 - [chrisvfritz/vue-2.0-simple-routing-example](https://github.com/chrisvfritz/vue-2.0-simple-routing-example) - A simple example of routing with Vue 2.0 without using vue-router.
 - [TOBEJIKE/JkMustard-Vue](https://github.com/TOBEJIKE/JkMustard-Vue) - SPA单页应用，前后端分离；移动设备兼容：使用flexible.js和rem处理兼容问题；路由懒加载：Vue Router 处理路由，结合 Vue 的 异步组件 和 Webpack 的 code splitting feature 实现路由懒加载；axios做ajax请求；使用了 Vuex 管理组件间的状态，实现非父子组件之间的通信；使用 Vue-draggable实现移动端拖拽排序；mint-U
+
+## reStructuredText 
+
+- [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 
 
 ## License
