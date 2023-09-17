@@ -113,6 +113,7 @@
 - [hangsz/pandas-tutorial](https://github.com/hangsz/pandas-tutorial) - 适合初级到中级晋升者，有了体系之后就看熟练度了。
 - [santosjorge/cufflinks](https://github.com/santosjorge/cufflinks) - Productivity Tools for Plotly + Pandas
 - [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
+- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 - [DataCastle2016/DataCastleVIP01](https://github.com/DataCastle2016/DataCastleVIP01) - DC学院-数据分析师入门-七月训练营
 - [BrambleXu/pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
@@ -230,7 +231,6 @@
 - [scrapy/dirbot](https://github.com/scrapy/dirbot) - Scrapy project to scrape public web directories (educational) [DEPRECATED]
 - [gera2ld/qqlib](https://github.com/gera2ld/qqlib) - [DEPRECATED] QQ login library based on webqq
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 - [yfme01/Music-Live-on-Bilibili](https://github.com/yfme01/Music-Live-on-Bilibili) - 运行于服务器上的Bilibili直播点歌台
 - [openstack/openstack](https://github.com/openstack/openstack) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
