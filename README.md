@@ -174,7 +174,6 @@
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [NtesEyes/pylane](https://github.com/NtesEyes/pylane) - An python vm injector with debug tools, based on gdb.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [antct/city-vein](https://github.com/antct/city-vein) - Urban structure characterized by :bus: public lines
