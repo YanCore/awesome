@@ -165,7 +165,6 @@
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
 - [flaggo/pydu](https://github.com/flaggo/pydu) - Useful data structures and utils for Python.
-- [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [zdict/zdict](https://github.com/zdict/zdict) - The last online dictionary CLI framework you need.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
