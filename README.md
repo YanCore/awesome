@@ -54,7 +54,7 @@
 
 - [jerry-git/learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [JoeCao/JoeCao.github.io](https://github.com/JoeCao/JoeCao.github.io) - 
 - [phodal/toolbox](https://github.com/phodal/toolbox) - Phodal's Toolbox
 - [zhangkaitao/shiro-example](https://github.com/zhangkaitao/shiro-example) - 跟我学Shiro（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》）
