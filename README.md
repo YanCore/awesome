@@ -18,6 +18,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Roff](#roff)
+- [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
 - [TypeScript](#typescript)
@@ -189,7 +190,6 @@
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
 - [anyant/rssant](https://github.com/anyant/rssant) - 蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯
 - [grantjenks/free-python-games](https://github.com/grantjenks/free-python-games) - Free Python Games
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [HaujetZhao/QuickCut](https://github.com/HaujetZhao/QuickCut) - Your most handy video processing software
 - [moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
@@ -242,6 +242,10 @@
 ## Roff 
 
 - [shadowrocketHelp/help](https://github.com/shadowrocketHelp/help) - 【史上最详细的SS/SSR/v2ray/trojan/clash/Android/iOS节点使用教程】魔法上网/科学上网/正确上网/免费梯子
+
+## Rust 
+
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 
 ## Scala 
 
