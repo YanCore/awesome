@@ -17,7 +17,6 @@
 - [Kotlin](#kotlin)
 - [Others](#others)
 - [Python](#python)
-- [Roff](#roff)
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
@@ -29,7 +28,6 @@
 
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [kangjianwei/Data-Structure](https://github.com/kangjianwei/Data-Structure) - 《数据结构》-严蔚敏.吴伟民-教材源码与习题解析
-- [microsoftarchive/redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 
 ## C# # 
 
@@ -95,8 +93,6 @@
 - [wikieswan/vipspa](https://github.com/wikieswan/vipspa) - A SPA Framework -- 为移动端开发提供纯前端的路由方案
 - [fongdaBoy/Vue2.0ComponentDemo](https://github.com/fongdaBoy/Vue2.0ComponentDemo) - 这个是vue2.0ui组件 和 功能组件案例 后期还会继续加上的一些组件的
 - [vuejs/vuex-router-sync](https://github.com/vuejs/vuex-router-sync) - Effortlessly keep vue-router and vuex store in sync.
-- [superwf/vuex-cache](https://github.com/superwf/vuex-cache) - cache vuex action when dispatch
-- [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [vuejs/vue-router](https://github.com/vuejs/vue-router) - 🚦 The official router for Vue 2
 - [SBDavid/wxappStore](https://github.com/SBDavid/wxappStore) - 微信小程序全局状态管理，并提供Vuex的开发体验
 - [bbxjs/bbx](https://github.com/bbxjs/bbx) - 𝕓𝕓𝕩 是一个极其简单高效的 React 状态管理方式
@@ -111,7 +107,6 @@
 ## Jupyter Notebook 
 
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [hangsz/pandas-tutorial](https://github.com/hangsz/pandas-tutorial) - 适合初级到中级晋升者，有了体系之后就看熟练度了。
 - [santosjorge/cufflinks](https://github.com/santosjorge/cufflinks) - Productivity Tools for Plotly + Pandas
 - [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
 - [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
@@ -125,15 +120,12 @@
 
 ## Others 
 
-- [YanCore/HowToCook](https://github.com/YanCore/HowToCook) - 程序员在家做饭方法指南。
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 - [jtyoui/PyUnit](https://github.com/jtyoui/PyUnit) - 搜狗词库下载、新词发现算法、常见的工具类、百度应用、翻译、天气预报、汉语纠错、字符串文本数据提取时间解析、百度文库下载、实体抽取等等
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-- [Cat-China/CatBrowser](https://github.com/Cat-China/CatBrowser) - 猫猫浏览器 - 完全自主研发，打破国外（美帝）对浏览器市场的垄断，比 Chrome 快 600%。
-- [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
 - [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
 - [treehollow/install-doc](https://github.com/treehollow/install-doc) - 如何搭建一个树洞
 - [7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books) - 编程开发相关书单列表整理
@@ -157,9 +149,7 @@
 
 - [itaa/soja-box](https://github.com/itaa/soja-box) - A little useful toolbox for python.
 - [Gaoyongxian666/CountBoard](https://github.com/Gaoyongxian666/CountBoard) - CountBoard 是一个基于Tkinter简单的,开源的桌面日程倒计时应用。
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
 - [baidu/CUP](https://github.com/baidu/CUP) - CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [will8211/unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running.
@@ -167,7 +157,6 @@
 - [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
 - [flaggo/pydu](https://github.com/flaggo/pydu) - Useful data structures and utils for Python.
 - [zdict/zdict](https://github.com/zdict/zdict) - The last online dictionary CLI framework you need.
-- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
@@ -239,10 +228,6 @@
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [yhlleo/tensorflow.cifar10](https://github.com/yhlleo/tensorflow.cifar10) - The examples of image recognition with the dataset CIFAR10 via tensorflow.
 
-## Roff 
-
-- [shadowrocketHelp/help](https://github.com/shadowrocketHelp/help) - 【史上最详细的SS/SSR/v2ray/trojan/clash/Android/iOS节点使用教程】魔法上网/科学上网/正确上网/免费梯子
-
 ## Rust 
 
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -274,7 +259,6 @@
 - [bailichen/vue-weixin](https://github.com/bailichen/vue-weixin) - Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
 - [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-- [biaodigit/vue-news](https://github.com/biaodigit/vue-news) - Vue2.5知乎日报单页应用
 - [chrisvfritz/vue-2.0-simple-routing-example](https://github.com/chrisvfritz/vue-2.0-simple-routing-example) - A simple example of routing with Vue 2.0 without using vue-router.
 - [TOBEJIKE/JkMustard-Vue](https://github.com/TOBEJIKE/JkMustard-Vue) - SPA单页应用，前后端分离；移动设备兼容：使用flexible.js和rem处理兼容问题；路由懒加载：Vue Router 处理路由，结合 Vue 的 异步组件 和 Webpack 的 code splitting feature 实现路由懒加载；axios做ajax请求；使用了 Vuex 管理组件间的状态，实现非父子组件之间的通信；使用 Vue-draggable实现移动端拖拽排序；mint-U
 
