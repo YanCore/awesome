@@ -42,6 +42,7 @@
 ## CSS 
 
 - [botuniverse/onebot](https://github.com/botuniverse/onebot) - OneBot：统一的聊天机器人应用接口标准
+- [apachecn/pyda-2e-zh](https://github.com/apachecn/pyda-2e-zh) - :book:  [译] 利用 Python 进行数据分析 · 第 2 版
 
 ## Go 
 
