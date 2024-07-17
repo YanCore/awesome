@@ -64,6 +64,7 @@
 - [parzulpan/livebox](https://github.com/parzulpan/livebox) - A cross-platform network media aggregation application
 - [GceCold/VexMusic](https://github.com/GceCold/VexMusic) - 服务器点歌插件
 - [Kuangcp/Note](https://github.com/Kuangcp/Note) - :memo: Simplified and open note repo
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [abel533/Mapper](https://github.com/abel533/Mapper) - Mybatis Common Mapper - Easy to use
 - [Sayi/ddd-cargo](https://github.com/Sayi/ddd-cargo) - Domain-Driven Design
 - [abel533/Mybatis-Spring](https://github.com/abel533/Mybatis-Spring) - 这是一个集成了Mybatis分页插件和通用Mapper的示例项目
@@ -135,7 +136,6 @@
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
-- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [iamseancheney/python_for_data_analysis_2nd_chinese_version](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version) - 《利用Python进行数据分析·第2版》
 - [ImagineL/DDD-DEMO](https://github.com/ImagineL/DDD-DEMO) - 一个简单的DDD领域驱动设计Demo.旨在解决一个经典的社会场景的编创化。场景：具体见下文图片。知识点：DDD设计实现，异步，定时器，事件总线，充血模型。
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
