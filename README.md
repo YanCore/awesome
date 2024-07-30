@@ -145,6 +145,7 @@
 
 ## Python 
 
+- [Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython](https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython) - This is a Python Hello World example plugin
 - [itaa/soja-box](https://github.com/itaa/soja-box) - A little useful toolbox for python.
 - [Gaoyongxian666/CountBoard](https://github.com/Gaoyongxian666/CountBoard) - CountBoard 是一个基于Tkinter简单的,开源的桌面日程倒计时应用。
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
