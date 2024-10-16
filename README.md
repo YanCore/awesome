@@ -187,7 +187,7 @@
 - [tychxn/jd-assistant](https://github.com/tychxn/jd-assistant) - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
 - [scrapy/dirbot](https://github.com/scrapy/dirbot) - Scrapy project to scrape public web directories (educational) [DEPRECATED]
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [yfme01/Music-Live-on-Bilibili](https://github.com/yfme01/Music-Live-on-Bilibili) - 运行于服务器上的Bilibili直播点歌台
+- [yfmeii/Music-Live-on-Bilibili](https://github.com/yfmeii/Music-Live-on-Bilibili) - 运行于服务器上的Bilibili直播点歌台
 - [openstack/openstack](https://github.com/openstack/openstack) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [zzzeek/sqlalchemy](https://github.com/zzzeek/sqlalchemy) - THIS IS NOT THE OFFICIAL REPO - PLEASE SUBMIT PRs ETC AT: http://github.com/sqlalchemy/sqlalchemy
